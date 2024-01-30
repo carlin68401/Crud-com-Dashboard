@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+  }
+
+  .navbar {
+    background-color: #343a40;
+  }
+
+  .container {
+    margin-top: 100px; /* Espaçamento do topo da página */
+  }
+
+  .alert {
+    border-radius: 8px;
+  }
+
+  .btn-dark {
+    background-color: #000;
+    border-color: #343a40;
+  }
+
+  .btn-dark:hover {
+    background-color: #23272b;
+    border-color: #23272b;
+  }
+
+  .table {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  th, td {
+    border: none;
+  }
+
+  .navbar-brand-text {
+    color: #fff; /* Cor do texto da navbar-brand */
+  }
+
+  .navbar-toggler {
+
+    color: #fff
+  }
